@@ -1,0 +1,18 @@
+[
+  {
+    "id": "baba-marta-2026",
+    "title": "Baba Marta Day - Martenitsa Tradition", 
+    "datetime": "2026-03-01",
+    "tags": ["bulgarian-tradition", "baba-marta", "martenitsa", "spring"],
+    "description": "Baba Marta (Grandma March) is a cherished Ancient Bulgarian spring tradition celebrated on March 1st to welcome spring, departing from winter. People exchange and wear red-and-white yarn tokens called martenitsi for health, strength, and fertility. These are worn until blooming trees or spring birds (storks/swallows) are seen, then tied to trees",
+    "status": "pending"
+  },
+  {
+    "id": "liberation-day-2026",
+    "title": "National Liberation Day - March 3rd 1878",
+    "datetime": "2026-03-03", 
+    "tags": ["bulgarian-independence", "national-holiday", "1878", "russia"],
+    "description": "Commemorate Treaty of San Stefano (3 March 1878): Russia defeats Ottoman Empire, creates autonomous Bulgarian principality. Biggest national holiday—parades, fireworks, school closures. Celebrated since 1880.",
+    "status": "pending"
+  }
+]
